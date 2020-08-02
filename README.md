@@ -5,7 +5,7 @@
 [TizenSchool](https://tizenschool.org/home)
 
 ### 일정
-  <img width="640" height="400" src="./png/sc.png"></img>
+  <img width="" height="" src="./png/sc.png"></img>
 
 ### 1Days 
 
