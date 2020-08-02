@@ -4,13 +4,15 @@
 ## 참고 사이트
 [TizenSchool](https://tizenschool.org/home)
 
-### 일정
+## 일정
   <img width="" height="" src="./png/sc.png"></img>
 
-### 1Days 
+## 1Days 
 
 [타이젠 C# 개발환경구축](http://tizenschool.org/tutorial/194)
 
-#### 첫번째 미션
+## 첫번째 미션
   <img width="640" height="400" src="./png/Three_Idiots_FirstMission.jpg"></img>
-
+  
+## 2Days
+  - Xamarin.Forms UI 
