@@ -20,4 +20,4 @@
 ## 3Days
 
 ## 두번째 미션
-  <img width="640" height="400" src="./png/Three_Idiots_second_Mission.png"></img>
+  <img width="640" height="400" src="./png/Three_Idiots_second_Mission.jpg"></img>
