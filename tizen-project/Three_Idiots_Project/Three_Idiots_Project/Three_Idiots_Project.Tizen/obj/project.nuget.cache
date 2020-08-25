@@ -1,10 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "+qPEOtm7wqfTLdYSPjHHfTKoJUrke81W4yPDG3l8Gmu8tVPgCI0fVajcR3B/D/NQsID/je50GYTd5jI2diKr6w==",
+  "dgSpecHash": "ZL+sKN0DbdyN36MOwdgk9q9G5UBqj4HgJdI1pW4frM3T5eutOYQnMR7+oTfJLdTSj5iYZur1eTLUaTxcJ8iBqg==",
   "success": true,
   "projectFilePath": "C:\\Users\\vivid\\OneDrive\\바탕 화면\\vividswan\\github\\Three_Idiots\\tizen-project\\Three_Idiots_Project\\Three_Idiots_Project\\Three_Idiots_Project.Tizen\\Three_Idiots_Project.Tizen.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vivid\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\vivid\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
+    "C:\\Users\\vivid\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
+    "C:\\Users\\vivid\\.nuget\\packages\\sqlitepclraw.core\\2.0.3\\sqlitepclraw.core.2.0.3.nupkg.sha512",
+    "C:\\Users\\vivid\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.3\\sqlitepclraw.lib.e_sqlite3.2.0.3.nupkg.sha512",
+    "C:\\Users\\vivid\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.3\\sqlitepclraw.provider.e_sqlite3.2.0.3.nupkg.sha512",
+    "C:\\Users\\vivid\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\vivid\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\vivid\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\vivid\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Users\\vivid\\.nuget\\packages\\tizen.net\\6.0.0.14995\\tizen.net.6.0.0.14995.nupkg.sha512",
     "C:\\Users\\vivid\\.nuget\\packages\\tizen.net.api5\\5.0.0.14638\\tizen.net.api5.5.0.0.14638.nupkg.sha512",
     "C:\\Users\\vivid\\.nuget\\packages\\xamarin.forms\\4.3.0.908675\\xamarin.forms.4.3.0.908675.nupkg.sha512"

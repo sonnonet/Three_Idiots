@@ -1,0 +1,7 @@
+C:\Users\vivid\OneDrive\바탕 화면\vividswan\github\Three_Idiots\tizen-project\Three_Idiots_Project\Three_Idiots_Project\Three_Idiots_Project\bin\Debug\netstandard2.0\Three_Idiots_Project.deps.json
+C:\Users\vivid\OneDrive\바탕 화면\vividswan\github\Three_Idiots\tizen-project\Three_Idiots_Project\Three_Idiots_Project\Three_Idiots_Project\bin\Debug\netstandard2.0\Three_Idiots_Project.dll
+C:\Users\vivid\OneDrive\바탕 화면\vividswan\github\Three_Idiots\tizen-project\Three_Idiots_Project\Three_Idiots_Project\Three_Idiots_Project\obj\Debug\netstandard2.0\Three_Idiots_Project.csprojAssemblyReference.cache
+C:\Users\vivid\OneDrive\바탕 화면\vividswan\github\Three_Idiots\tizen-project\Three_Idiots_Project\Three_Idiots_Project\Three_Idiots_Project\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\vivid\OneDrive\바탕 화면\vividswan\github\Three_Idiots\tizen-project\Three_Idiots_Project\Three_Idiots_Project\Three_Idiots_Project\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\vivid\OneDrive\바탕 화면\vividswan\github\Three_Idiots\tizen-project\Three_Idiots_Project\Three_Idiots_Project\Three_Idiots_Project\obj\Debug\netstandard2.0\Three_Idiots_Project.AssemblyInfoInputs.cache
+C:\Users\vivid\OneDrive\바탕 화면\vividswan\github\Three_Idiots\tizen-project\Three_Idiots_Project\Three_Idiots_Project\Three_Idiots_Project\obj\Debug\netstandard2.0\Three_Idiots_Project.AssemblyInfo.cs
