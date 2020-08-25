@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Three_Idiots_Project", "Three_Idiots_Project\Three_Idiots_Project\Three_Idiots_Project.csproj", "{FBAD6967-0B7C-4EC0-9693-6301AA06B955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Three_Idiots_Project.Tizen", "Three_Idiots_Project\Three_Idiots_Project.Tizen\Three_Idiots_Project.Tizen.csproj", "{3305DB39-FE91-4007-8FDD-085134EBDE0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBAD6967-0B7C-4EC0-9693-6301AA06B955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBAD6967-0B7C-4EC0-9693-6301AA06B955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBAD6967-0B7C-4EC0-9693-6301AA06B955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBAD6967-0B7C-4EC0-9693-6301AA06B955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3305DB39-FE91-4007-8FDD-085134EBDE0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3305DB39-FE91-4007-8FDD-085134EBDE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3305DB39-FE91-4007-8FDD-085134EBDE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3305DB39-FE91-4007-8FDD-085134EBDE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A9C1BA9-84AE-4387-A2F6-BA01B70E3C1E}
+	EndGlobalSection
+EndGlobal
