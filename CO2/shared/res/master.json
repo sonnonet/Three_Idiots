@@ -1,0 +1,18 @@
+{
+  "devices": [
+    {
+      "deviceType": "x.wwst.d.basic",
+      "deviceName": "CO2",
+      "mnid": "0001",
+      "vid": "001"
+    }
+  ],
+  "configuration": {
+    "easySetup": {
+      "mode": 1,
+      "setupId": "001"
+    },
+    "otm": 2,
+    "crtType": 1
+  }
+}
