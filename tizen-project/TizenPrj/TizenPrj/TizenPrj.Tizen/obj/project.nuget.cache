@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ctoMO3dc7DMj5myVBHW/MN8u2JeRzwEDxdMNcJZJ6jRA6CjmH6TyPI2UEJqvvZUPXajJoMHHi6YysHj2V6YU2g==",
+  "dgSpecHash": "jb2AnKyXeFZPQwLcFtK9+OBHtRWrPNis3zwyuHfzRxNdhy1Wv5oguReAmyN+RDCgO2H9B3zYPi/6xMo4eBA6/g==",
   "success": true,
   "projectFilePath": "C:\\Users\\vivid\\OneDrive\\바탕 화면\\vividswan\\github\\Three_Idiots\\tizen-project\\TizenPrj\\TizenPrj\\TizenPrj.Tizen\\TizenPrj.Tizen.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vivid\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\vivid\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\vivid\\.nuget\\packages\\tizen.net\\6.0.0.14995\\tizen.net.6.0.0.14995.nupkg.sha512",
     "C:\\Users\\vivid\\.nuget\\packages\\tizen.net.api5\\5.0.0.14638\\tizen.net.api5.5.0.0.14638.nupkg.sha512",
     "C:\\Users\\vivid\\.nuget\\packages\\xamarin.forms\\4.3.0.908675\\xamarin.forms.4.3.0.908675.nupkg.sha512"

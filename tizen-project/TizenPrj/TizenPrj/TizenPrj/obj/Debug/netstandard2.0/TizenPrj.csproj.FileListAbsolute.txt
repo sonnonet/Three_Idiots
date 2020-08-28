@@ -1,0 +1,7 @@
+C:\Users\vivid\OneDrive\바탕 화면\vividswan\github\Three_Idiots\tizen-project\TizenPrj\TizenPrj\TizenPrj\bin\Debug\netstandard2.0\TizenPrj.deps.json
+C:\Users\vivid\OneDrive\바탕 화면\vividswan\github\Three_Idiots\tizen-project\TizenPrj\TizenPrj\TizenPrj\bin\Debug\netstandard2.0\TizenPrj.dll
+C:\Users\vivid\OneDrive\바탕 화면\vividswan\github\Three_Idiots\tizen-project\TizenPrj\TizenPrj\TizenPrj\obj\Debug\netstandard2.0\TizenPrj.csprojAssemblyReference.cache
+C:\Users\vivid\OneDrive\바탕 화면\vividswan\github\Three_Idiots\tizen-project\TizenPrj\TizenPrj\TizenPrj\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\vivid\OneDrive\바탕 화면\vividswan\github\Three_Idiots\tizen-project\TizenPrj\TizenPrj\TizenPrj\obj\Debug\netstandard2.0\Views\InfoPage.xaml.g.cs
+C:\Users\vivid\OneDrive\바탕 화면\vividswan\github\Three_Idiots\tizen-project\TizenPrj\TizenPrj\TizenPrj\obj\Debug\netstandard2.0\TizenPrj.AssemblyInfoInputs.cache
+C:\Users\vivid\OneDrive\바탕 화면\vividswan\github\Three_Idiots\tizen-project\TizenPrj\TizenPrj\TizenPrj\obj\Debug\netstandard2.0\TizenPrj.AssemblyInfo.cs
