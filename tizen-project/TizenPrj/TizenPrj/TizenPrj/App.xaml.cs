@@ -15,7 +15,7 @@ namespace TizenPrj
         {
             InitializeComponent();
 
-            MainPage = new TizenPrj.MainPage();
+            MainPage = new TizenPrj.Views.InfoPage();
         }
 
         protected override void OnStart()
