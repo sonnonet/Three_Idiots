@@ -1,0 +1,12 @@
+C:\Users\JI SUN MIN\source\repos\B\B\B\bin\Debug\netstandard2.0\B.deps.json
+C:\Users\JI SUN MIN\source\repos\B\B\B\bin\Debug\netstandard2.0\B.dll
+C:\Users\JI SUN MIN\source\repos\B\B\B\obj\Debug\netstandard2.0\B.csprojAssemblyReference.cache
+C:\Users\JI SUN MIN\source\repos\B\B\B\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\JI SUN MIN\source\repos\B\B\B\obj\Debug\netstandard2.0\Views\ListPage.xaml.g.cs
+C:\Users\JI SUN MIN\source\repos\B\B\B\obj\Debug\netstandard2.0\B.AssemblyInfoInputs.cache
+C:\Users\JI SUN MIN\source\repos\B\B\B\obj\Debug\netstandard2.0\B.AssemblyInfo.cs
+C:\Users\JI SUN MIN\source\repos\B\B\B\obj\Debug\netstandard2.0\B.csproj.CoreCompileInputs.cache
+C:\Users\JI SUN MIN\source\repos\B\B\B\bin\Debug\netstandard2.0\B.pdb
+C:\Users\JI SUN MIN\source\repos\B\B\B\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\JI SUN MIN\source\repos\B\B\B\obj\Debug\netstandard2.0\B.dll
+C:\Users\JI SUN MIN\source\repos\B\B\B\obj\Debug\netstandard2.0\B.pdb
