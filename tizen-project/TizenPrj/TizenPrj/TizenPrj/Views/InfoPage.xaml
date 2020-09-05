@@ -4,23 +4,20 @@
              x:Class="TizenPrj.Views.InfoPage">
     <ContentPage.Content>
         <AbsoluteLayout BackgroundColor="White">
-            <Label Text="0.0.0.0"
-            x:Name="test"
+            <Label Text="미세먼지 출력"
+            x:Name="apiText"
             FontSize="Large"
             AbsoluteLayout.LayoutFlags="All"
-            AbsoluteLayout.LayoutBounds="0.5,0.4,1,0.25" 
+            AbsoluteLayout.LayoutBounds="0.5,0.5,1,0.5" 
             HorizontalTextAlignment="Center"
             VerticalTextAlignment="Center"/>
 
-            <Button Text="Load"
+            <Button Text="Click"
             Clicked="Button_Load"
             AbsoluteLayout.LayoutFlags="All"
-            AbsoluteLayout.LayoutBounds="0.25,0.75,0.25,0.10" />
+            AbsoluteLayout.LayoutBounds="0.5,0.9,0.25,0.10" />
 
-            <Button Text="Reset"
-            Clicked="Button_Reset"
-            AbsoluteLayout.LayoutFlags="All"
-            AbsoluteLayout.LayoutBounds="0.75,0.75,0.25,0.10" />
+
         </AbsoluteLayout>
     </ContentPage.Content>
 </ContentPage>
