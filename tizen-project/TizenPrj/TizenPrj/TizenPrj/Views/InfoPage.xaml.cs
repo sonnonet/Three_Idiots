@@ -10,7 +10,7 @@ using Xamarin.Forms.Xaml;
 namespace TizenPrj.Views
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class InfoPage : ContentView
+    public partial class InfoPage : ContentPage
     {
         public InfoPage()
         {
