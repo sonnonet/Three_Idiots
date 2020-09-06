@@ -1,6 +1,9 @@
 # 2020 서울 하드웨어 해커톤 탑메이커 프로젝트
 
   - 팀명 : Three-Idiots 
+  
+## 미션
+  Mission.md 파일(Mission.md)
 
 ## 참고 사이트
 [TizenSchool](https://tizenschool.org/home)
