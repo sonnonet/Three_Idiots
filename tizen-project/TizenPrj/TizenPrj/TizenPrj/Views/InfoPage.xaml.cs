@@ -23,7 +23,7 @@ namespace TizenPrj.Views
 
         private async void Button_Load(object sender, EventArgs e)
         {
-            var json = await new HttpClient().GetStringAsync("http://openapi.airkorea.or.kr/openapi/services/rest/ArpltnInforInqireSvc/getCtprvnMesureSidoLIst?serviceKey={serviceKey}&numOfRows=10&pageNo=2&sidoName=%EA%B2%BD%EA%B8%B0&searchCondition=DAILY&_returnType=json");
+            var json = await new HttpClient().GetStringAsync("http://openapi.airkorea.or.kr/openapi/services/rest/ArpltnInforInqireSvc/getCtprvnMesureSidoLIst?serviceKey=ng%2FLijSMgnWyRTRqAAQMqwcyEEt5yqOqnkeEGn1oMGfqIEaP492zeRvX4%2BBnK9Zn4woeMLrSj21o6WToZ%2BOpxQ%3D%3D&numOfRows=10&pageNo=2&sidoName=%EA%B2%BD%EA%B8%B0&searchCondition=DAILY&_returnType=json");
             JObject jObject = JObject.Parse(json);
             var list = jObject.SelectToken("list");
             var jsonList = list[0];
