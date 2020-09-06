@@ -76,7 +76,7 @@
     
     - 시스템 구성
     
-      <img width="" height="" src="./png/rpi_tod.jpg"></img>
+      <img width="400" height="500" src="./png/rpi_tod.jpg"></img>
     
     - 유튜브 영상
       
