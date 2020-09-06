@@ -47,6 +47,13 @@
           
           - 온/습도 센서 (DHT11) 를 이용하여, 사용자가 설정한 습도보다 낮을시 자동으로 가습기를 제어(PP-A465 110KHz 5V)
           
+      3. 방법 서비스
+      
+          - 텔레그램으로 /on 명령을 보내면 방범시스템 가동
+          
+          - 인체감지 센서를 이용하여 방법 시스템이 가동 되었을시 인체감지가 되면 카메라 사진을 telegram 으로 전송
+          
+          
     - 시스템 구성도
   
         <img width="" height="" src="./png/system_house.png"></img>
@@ -103,13 +110,19 @@
 ## 파일 리스트
 
   - 라즈베리파이 
+  
     ./app/DustSensor (HPMAS0 미세먼지센서 python 코드)
+    
     ./app/TOD (열화상 라즈베리파이 C++코드)
+    
     ./app/co2 (이산화탄소 센서 python 코드)
+    
     ./app/zigbee/ (지그비 무선통신 임베디드 소스코드 nesC)
     
   - Tizen
+  
     ./tizen-project/TizenPrj -> TizenPrj -> TizenPrj -> Views 미세먼지 공공 API 소스코드
+    
     ./app/camera Tizen camera 활용 코드
 
 ## Tizen 구현 화면
