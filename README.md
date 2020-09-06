@@ -74,6 +74,10 @@
     
     - 추후 계획 방문자에 대한 위치정보 모니터링 및 QR 코드 연계
     
+    - 시스템 구성
+    
+      <img width="" height="" src="./png/rpi_tod.jpg"></img>
+    
     - 유튜브 영상
       
       [라즈베리파이 열화상 카메라 체온 측정 및 이상상황 LED 알림장치](https://youtu.be/Ekh_GuLjOIA)
