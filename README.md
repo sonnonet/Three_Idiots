@@ -17,8 +17,6 @@
 
 ## 팀원
   - 김한결, 박수환, 민지선
-  
-   <img width="500" height="400" src="./png/teampic.jpg"></img>
    
 ## 아이디어
 
